@@ -4,13 +4,15 @@
 
 # If Then Else
 
-![XKCD]()
+![XKCD](https://github.com/Campbell-law/sept-19-flow-control/blob/master/flowcharts.png)
 
-![if]()
+![if](https://github.com/Campbell-law/sept-19-flow-control/blob/master/if_Python.jpg)
 
-![if-else]()
+![if-else](https://github.com/Campbell-law/sept-19-flow-control/blob/master/if_Python.jpg)
 
-![nested]()
+![ladder](https://github.com/Campbell-law/sept-19-flow-control/blob/master/if-elseif-ladder.jpg)
+
+![nested](https://github.com/Campbell-law/sept-19-flow-control/blob/master/nested-if.jpg)
 
 ### Fork this Repo clone it to your drive and do the exercises at:
 [sept-19.py](https://github.com/Campbell-law/sept-19-flow-control/blob/master/sept-19.py)
