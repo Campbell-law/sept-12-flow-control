@@ -20,8 +20,6 @@
 
 ## Program flow
 ## Python groups programs into blocks with indentation
-## If you are using the vscode interactive window you can highlight all the lines
-## you want to execute and press shift - return
 ##
 
 name = 'Mary'
@@ -35,10 +33,7 @@ if name == 'Mary':
         print('Sorry ' + name)
 
 # 3). Beer program - write a program that asks for a name and age
-## If the person is 21 or old they can buy beer if less than 21 they can't
-## To make the actual input work you have to run this in the terminal option command P on Mac 
-## or double click (right click) and select run in terminal -- 
-## or shift comand P and select Python run in terminal
+## If the person is 21 or older they can buy beer if less than 21 they can't
 
 
 
@@ -53,7 +48,8 @@ if name == 'Mary':
 # 5). Expungement App 
 ## This is based on last years project. You can only expunge a criminal record under certain conditions
 ## If you have one conviction you can usually get it expunged
-## if you have more than on conviction you can only get them expunged if they occurred on the same day
+## if you have more than on conviction you can only get them expunged if the convictions 
+## occurred on the same day
 
 
 # 6). Baseball App
@@ -71,5 +67,4 @@ if name == 'Mary':
 
 import random
 number = random.randint(1,10)
-
-   
+print(number)
