@@ -19,7 +19,7 @@ if (n > 15):
 print ("I am Not in if") 
 ```
 ## If with an Else
-![if_else](https://github.com/Campbell-law/sept-19-flow-control/blob/master/if_else.jpg)
+![if_else](https://github.com/Campbell-law/sept-19-flow-control/blob/master/if-else.jpg)
 
 ```
 n = 20; 
